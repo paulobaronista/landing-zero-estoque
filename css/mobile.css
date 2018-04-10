@@ -1,0 +1,155 @@
+@media only screen and (min-width: 0px) and (min-width: 680px) {
+ .box-mobile {
+  display: none;
+ }
+}
+@media only screen and (min-width: 0px) and (max-width: 680px) {
+
+#page-full {
+ height: 120% !important;
+}
+#container-form {
+ width: 100% !important;
+ height: 550px;
+ position: relative;
+ float: left;
+ left: 0% !important;
+ margin-left: 0px !important;
+ background: none;
+}
+#box_form {
+ width: 100% !important;
+ height: 560px !important;
+ margin-top: 5px !important;
+ -webkit-border-radius: 0px !important;
+ -moz-border-radius: 0px !important;
+ border-radius: 0px !important;
+ margin-right: 0px !important;
+}
+#box_form span {
+ -webkit-border-top-left-radius: 0px !important;
+ -moz-border-top-left-radius: 0px !important;
+ border-top-left-radius: 0px !important;
+ -webkit-border-top-right-radius: 0px !important;
+ -moz-border-top-right-radius: 0px !important;
+ border-top-right-radius: 0px !important;
+}
+form input {
+ width: 94% !important;
+ height: 50px !important;
+ padding: 0 1% 0 1% !important;
+ margin: 0 2% 0px 2% !important;
+}
+form select {
+ width: 94% !important;
+ height: 50px !important;
+ padding: 0 1% 0 1% !important;
+ margin: 0 2% 0px 2% !important;
+}
+form textarea {
+ width: 94% !important;
+ height: 120px !important;
+ padding: 3% 1% 0 1% !important;
+ margin: 0 2% 0px 2% !important;
+}
+.enviar {
+ width: 98% !important;
+ margin: 10px 1% 0 1% !important;
+ padding: 15px 0 15px 0;
+}
+small {
+ margin: 5px 0 0 0 !important;
+}
+.box-mobile {
+ width: 100%;
+ text-align: center;
+}
+.txt-01-mobile {
+ font-size: 35px;
+ text-transform: uppercase;
+ font-family: "Arial", Helvetica, sans-serif;
+ color: #FFF;
+ padding: 10px 0 10px 0;
+ line-height: 40px;
+}
+.txt-02-mobile {
+ font-size: 40px;
+ text-transform: uppercase;
+ font-family: "Arial", Helvetica, sans-serif;
+ color: #FFF;
+ padding: 15px 0 15px 0;
+ line-height: 40px;
+}
+.txt-03-mobile {
+ font-size: 30px;
+ text-transform: uppercase;
+ font-family: "Arial", Helvetica, sans-serif;
+ color: #FFF;
+ line-height: 30px;
+ padding-top: 10px;
+}
+.txt-04-mobile {
+ font-size: 15px;
+ text-transform: uppercase;
+ font-family: "Arial", Helvetica, sans-serif;
+ color: #FFF;
+ line-height: 30px;
+}
+.fundo-01-mobile img {
+ max-width: 100%;
+}
+.txt-resposta p {
+ text-align: center;
+ font-size: 25px;
+ color: #FFF;
+ line-height: 30px;
+ padding-left: 1%;
+ padding-right: 1%;
+ text-transform: uppercase;
+ padding-top: 100px !important;
+}
+.resp-mobile {
+ display: none;
+}
+.resp-mobile-box {
+ background: url(../imagens/fundo-base.jpg) 50% 0 no-repeat;
+ margin: 0 auto;
+ width: 100%;
+ float: left;
+ height: 500px;
+ position: relative;
+ background-position: 50% 0;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.resp-mobile-box p {
+ width: 98%;
+ background-color: #76599d;
+ padding: 100px 0 100px 0;
+ -webkit-border-radius: 30px;
+ -moz-border-radius: 30px;
+ border-radius: 30px;
+ margin-top: 20px;
+ margin-left: 1%;
+ margin-right: 1%;
+ line-height: 40px;
+}
+#container-rodape {
+ margin-top: 15px !important;
+ height: 25px !important;
+ padding-bottom: 20%;
+}
+
+}
+/* End Mobile Styles */   
+
+
+
+
+
+
+
+
+
+
+
